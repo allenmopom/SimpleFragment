@@ -13,3 +13,4 @@ git rm -f File_01.txt
 // Skipping staging and message 
 git commit -a -m 'Message here'
 
+// Changes made locally
