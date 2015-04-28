@@ -1,1 +1,6 @@
-Testing
+// **********************************
+//  Location of to ignore extension
+// **********************************
+
+https://github.com/github/gitignore
+
