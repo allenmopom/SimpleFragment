@@ -4,3 +4,12 @@
 
 https://github.com/github/gitignore
 
+// Add file to be tracked by git
+git add File_01.txt
+
+// Remove file to be tracked by git
+git rm -f File_01.txt
+
+// Skipping staging and message 
+git commit -a -m 'Message here'
+
