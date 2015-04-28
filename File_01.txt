@@ -14,3 +14,4 @@ git rm -f File_01.txt
 git commit -a -m 'Message here'
 
 // Changes made locally
+check online
